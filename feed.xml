@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://lebeart.ch/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://lebeart.ch/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Crameri Coaching</title>
 		<description>Psychosoziale, Systemische Beratung</description>
-		<link>http://localhost:4000//</link>
-		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://lebeart.ch/</link>
+		<atom:link href="https://lebeart.ch/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Mann sein</title>
-				<link>http://localhost:4000//themen/mann-sein/</link>
+				<link>https://lebeart.ch/themen/mann-sein/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;Halli hallo du lieber Mann. Was kann man denn hier noch sagen.&lt;/p&gt;
 
@@ -18,208 +18,208 @@
 
 &lt;p&gt;Mehr wäre hier noch zu sagen.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//themen/mann-sein/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen/mann-sein/</guid>
 			</item>
 		
 			<item>
 				<title>Leistung &amp; Mentales</title>
-				<link>http://localhost:4000//themen/leistung-mentales/</link>
+				<link>https://lebeart.ch/themen/leistung-mentales/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
 				<description>&lt;ul&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//themen/leistung-mentales/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen/leistung-mentales/</guid>
 			</item>
 		
 			<item>
 				<title>Business-Umfeld</title>
-				<link>http://localhost:4000//themen/business-umfeld/</link>
+				<link>https://lebeart.ch/themen/business-umfeld/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
 				<description>&lt;ul&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//themen/business-umfeld/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen/business-umfeld/</guid>
 			</item>
 		
 			<item>
 				<title>Beziehung &amp; Familie</title>
-				<link>http://localhost:4000//themen/beziehung-familie/</link>
+				<link>https://lebeart.ch/themen/beziehung-familie/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
 				<description>&lt;ul&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//themen/beziehung-familie/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen/beziehung-familie/</guid>
 			</item>
 		
 			<item>
 				<title>ADHS</title>
-				<link>http://localhost:4000//themen/adhs/</link>
+				<link>https://lebeart.ch/themen/adhs/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
 				<description>&lt;ul&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/typography/typography/&quot;&gt;Wonderful Typography&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/comments/&quot;&gt;Now with Comments!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header/&quot;&gt;No Header&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header-but-image/&quot;&gt;No Header but Article Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-with-text/&quot;&gt;Header With Text&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-logo-only/&quot;&gt;Header With Logo Only&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-color/&quot;&gt;Header Image With Background Color&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-full-width-image/&quot;&gt;Header with a Full-Width-Image&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-pattern/&quot;&gt;Header Image With Pattern&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/gallery/&quot;&gt;Responsive Galleries with Foundation&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/video/&quot;&gt;Video Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/grid/&quot;&gt;Grid &amp;amp; Colors&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/portfolio/&quot;&gt;Show your beautiful work!&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page-fullwidth/&quot;&gt;The Full-Width Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-right-sidebar/&quot;&gt;Page/Post Right Sidebar&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/page/&quot;&gt;The Post/Page Template&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/breadcrumb/&quot;&gt;Breadcrumbs&lt;/a&gt;&lt;/li&gt;
     
-    &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/post-left-sidebar/&quot;&gt;Page/Post With Left Sidebar&lt;/a&gt;&lt;/li&gt;
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//themen/adhs/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen/adhs/</guid>
 			</item>
 		
 			<item>
 				<title>NNNN Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000//design/mediaelement_js/</link>
+				<link>https://lebeart.ch/design/mediaelement_js/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -251,12 +251,12 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000//design/mediaelement_js/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/design/mediaelement_js/</guid>
 			</item>
 		
 			<item>
 				<title>Wonderful Typography</title>
-				<link>http://localhost:4000//design/typography/typography/</link>
+				<link>https://lebeart.ch/design/typography/typography/</link>
 				<pubDate>Sun, 16 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -688,24 +688,24 @@ element&lt;/td&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//design/typography/typography/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/design/typography/typography/</guid>
 			</item>
 		
 			<item>
 				<title>Now with Comments!</title>
-				<link>http://localhost:4000//design/comments/</link>
+				<link>https://lebeart.ch/design/comments/</link>
 				<pubDate>Sat, 15 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000//design/comments/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/design/comments/</guid>
 			</item>
 		
 			<item>
 				<title>No Header</title>
-				<link>http://localhost:4000//design/no-header/</link>
+				<link>https://lebeart.ch/design/no-header/</link>
 				<pubDate>Tue, 11 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -720,31 +720,31 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000//design/no-header/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/design/no-header/</guid>
 			</item>
 		
 			<item>
 				<title>No Header but Article Image</title>
-				<link>http://localhost:4000//design/no-header-but-image/</link>
+				<link>https://lebeart.ch/design/no-header-but-image/</link>
 				<pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;First turn of the header with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -763,26 +763,26 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000//design/no-header-but-image/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/design/no-header-but-image/</guid>
 			</item>
 		
 	</channel>
