@@ -3,20 +3,18 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://lebeart.ch/</id>
-	<title>Crameri Coaching</title>
-	<updated>2024-01-22T09:36:06+01:00</updated>
+	<title>lebeart</title>
+	<updated>2024-01-24T03:47:20+01:00</updated>
 
-	<subtitle>Psychosoziale, Systemische Beratung</subtitle>
+	<subtitle>Kunsttherapie &amp; Systemische Beratung</subtitle>
 
 	
 		
 		<author>
 			
-				<name>Erich Crameri</name>
+				<name>ecr</name>
 			
 			
-			
-				<uri>https://crameri-coaching.ch/</uri>
 			
 		</author>
 	
@@ -28,25 +26,25 @@
 
 	
 		<entry>
-			<id>https://lebeart.ch/themen/mann-sein/</id>
+			<id>https://lebeart.ch/themen_blog/mann-sein/</id>
 			<title>Mann sein</title>
-			<link href="https://lebeart.ch/themen/mann-sein/" rel="alternate" type="text/html" title="Mann sein" />
+			<link href="https://lebeart.ch/themen_blog/mann-sein/" rel="alternate" type="text/html" title="Mann sein" />
 			<updated>2023-06-24T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
 			<summary>Bist du ein Mann? Was bedeutet das für dich? Wie fühlt sich das an?</summary>
-			<content type="html" xml:base="https://lebeart.ch/themen/mann-sein/">&lt;p&gt;Halli hallo du lieber Mann. Was kann man denn hier noch sagen.&lt;/p&gt;
+			<content type="html" xml:base="https://lebeart.ch/themen_blog/mann-sein/">&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;p&gt;Halli hallo du lieber Mann. Was kann man denn hier noch sagen.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -54,7 +52,7 @@
 </content>
 
 			
-				<category term="themen" />
+				<category term="themen_blog" />
 			
 			
 				<category term="themen" />
@@ -68,25 +66,25 @@
 		</entry>
 	
 		<entry>
-			<id>https://lebeart.ch/themen/leistung-mentales/</id>
+			<id>https://lebeart.ch/themen_blog/leistung-mentales/</id>
 			<title>Leistung &amp; Mentales</title>
-			<link href="https://lebeart.ch/themen/leistung-mentales/" rel="alternate" type="text/html" title="Leistung &amp; Mentales" />
+			<link href="https://lebeart.ch/themen_blog/leistung-mentales/" rel="alternate" type="text/html" title="Leistung &amp; Mentales" />
 			<updated>2023-06-24T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
 			<summary>Sport, Kunst, Musik - Leistung und mentale Themen.</summary>
-			<content type="html" xml:base="https://lebeart.ch/themen/leistung-mentales/">&lt;ul&gt;
+			<content type="html" xml:base="https://lebeart.ch/themen_blog/leistung-mentales/">&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -130,7 +128,7 @@
 </content>
 
 			
-				<category term="themen" />
+				<category term="themen_blog" />
 			
 			
 				<category term="themen" />
@@ -152,25 +150,25 @@
 		</entry>
 	
 		<entry>
-			<id>https://lebeart.ch/themen/business-umfeld/</id>
+			<id>https://lebeart.ch/themen_blog/business-umfeld/</id>
 			<title>Business-Umfeld</title>
-			<link href="https://lebeart.ch/themen/business-umfeld/" rel="alternate" type="text/html" title="Business-Umfeld" />
+			<link href="https://lebeart.ch/themen_blog/business-umfeld/" rel="alternate" type="text/html" title="Business-Umfeld" />
 			<updated>2023-06-24T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
 			<summary>Coaching im Business-Umfeld.</summary>
-			<content type="html" xml:base="https://lebeart.ch/themen/business-umfeld/">&lt;ul&gt;
+			<content type="html" xml:base="https://lebeart.ch/themen_blog/business-umfeld/">&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -214,7 +212,7 @@
 </content>
 
 			
-				<category term="themen" />
+				<category term="themen_blog" />
 			
 			
 				<category term="themen" />
@@ -226,25 +224,25 @@
 		</entry>
 	
 		<entry>
-			<id>https://lebeart.ch/themen/beziehung-familie/</id>
+			<id>https://lebeart.ch/themen_blog/beziehung-familie/</id>
 			<title>Beziehung &amp; Familie</title>
-			<link href="https://lebeart.ch/themen/beziehung-familie/" rel="alternate" type="text/html" title="Beziehung &amp; Familie" />
+			<link href="https://lebeart.ch/themen_blog/beziehung-familie/" rel="alternate" type="text/html" title="Beziehung &amp; Familie" />
 			<updated>2023-06-24T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
 			<summary>In Beziehung? Familie?</summary>
-			<content type="html" xml:base="https://lebeart.ch/themen/beziehung-familie/">&lt;ul&gt;
+			<content type="html" xml:base="https://lebeart.ch/themen_blog/beziehung-familie/">&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -288,7 +286,7 @@
 </content>
 
 			
-				<category term="themen" />
+				<category term="themen_blog" />
 			
 			
 				<category term="themen" />
@@ -300,25 +298,27 @@
 		</entry>
 	
 		<entry>
-			<id>https://lebeart.ch/themen/adhs/</id>
+			<id>https://lebeart.ch/themen_blog/adhs/</id>
 			<title>ADHS</title>
-			<link href="https://lebeart.ch/themen/adhs/" rel="alternate" type="text/html" title="ADHS" />
+			<link href="https://lebeart.ch/themen_blog/adhs/" rel="alternate" type="text/html" title="ADHS" />
 			<updated>2023-06-24T00:00:00+02:00</updated>
 
 			
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>Erich C</name>
 					
 					
 					
-						<uri>https://crameri-coaching.ch/</uri>
+						<uri>https://lebeart.ch/</uri>
 					
 				</author>
 			
 			<summary>Über ADHS kann man vieles sagen.</summary>
-			<content type="html" xml:base="https://lebeart.ch/themen/adhs/">&lt;ul&gt;
+			<content type="html" xml:base="https://lebeart.ch/themen_blog/adhs/">&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -362,7 +362,7 @@
 </content>
 
 			
-				<category term="themen" />
+				<category term="themen_blog" />
 			
 			
 				<category term="themen" />
@@ -383,11 +383,9 @@
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
@@ -447,11 +445,9 @@
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
@@ -907,11 +903,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
@@ -940,11 +934,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			
@@ -1006,11 +998,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Erich Crameri</name>
+						<name>ecr</name>
 					
 					
-					
-						<uri>https://crameri-coaching.ch/</uri>
 					
 				</author>
 			

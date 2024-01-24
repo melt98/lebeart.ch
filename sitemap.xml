@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 38 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 40 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://lebeart.ch/404.html</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,9 +20,24 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/adhs-p/</loc>
+	<loc>https://lebeart.ch/themen/adhs/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/angebot/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +52,7 @@
 	<url>
 	<loc>https://lebeart.ch/blog/archive/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,7 +69,7 @@
 	<url>
 	<loc>https://lebeart.ch/atom.xml</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +84,9 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/beziehung-familie-p/</loc>
+	<loc>https://lebeart.ch/themen/beziehung-familie/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/themen/business-umfeld-p/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,54 +99,9 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/changelog/</loc>
+	<loc>https://lebeart.ch/themen/business-umfeld/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/coaching/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/design/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/documentation/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,37 +116,7 @@
 	<url>
 	<loc>https://lebeart.ch/feed.xml</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/getting-started/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/headers/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +131,22 @@
 	<url>
 	<loc>https://lebeart.ch/humans.txt</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/impressum/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +161,7 @@
 	<url>
 	<loc>https://lebeart.ch/blog/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,22 +176,7 @@
 	<url>
 	<loc>https://lebeart.ch/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/info/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +191,7 @@
 	<url>
 	<loc>https://lebeart.ch/kontakt/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,24 +204,9 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/leistung-mentales-p/</loc>
+	<loc>https://lebeart.ch/themen/leistung-mentales/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/themen/mann-sein-p/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -309,24 +219,9 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/redirect-page/</loc>
+	<loc>https://lebeart.ch/themen/mann-sein/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/roadmap/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -341,7 +236,7 @@
 	<url>
 	<loc>https://lebeart.ch/robots.txt</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -354,28 +249,13 @@
 
 	
 
-	
-
-	
-	<url>
-	<loc>https://lebeart.ch/search/</loc>
-	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
 	
 
 	
 	<url>
 	<loc>https://lebeart.ch/sitemap.xml</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -390,9 +270,24 @@
 
 	
 	<url>
+	<loc>https://lebeart.ch/suche/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>https://lebeart.ch/themen/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -407,7 +302,142 @@
 	<url>
 	<loc>https://lebeart.ch/ueber-mich/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/changelog/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/design/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/fr_doc/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/documentation/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/getting-started/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/headers/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/info/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/redirect-page/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lebeart.ch/roadmap/</loc>
+	
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -422,7 +452,7 @@
 	<url>
 	<loc>https://lebeart.ch/blog/page2/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -437,7 +467,7 @@
 	<url>
 	<loc>https://lebeart.ch/blog/page3/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -452,7 +482,7 @@
 	<url>
 	<loc>https://lebeart.ch/blog/page4/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -467,7 +497,7 @@
 	<url>
 	<loc>https://lebeart.ch/blog/page5/</loc>
 	
-		<lastmod>2024-01-22T09:36:06+01:00</lastmod>
+		<lastmod>2024-01-24T03:47:20+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -487,7 +517,7 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/mann-sein/</loc>
+	<loc>https://lebeart.ch/themen_blog/mann-sein/</loc>
 	
 		<lastmod>2023-06-24T00:00:00+02:00</lastmod>
 	
@@ -502,7 +532,7 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/leistung-mentales/</loc>
+	<loc>https://lebeart.ch/themen_blog/leistung-mentales/</loc>
 	
 		<lastmod>2023-06-24T00:00:00+02:00</lastmod>
 	
@@ -517,7 +547,7 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/business-umfeld/</loc>
+	<loc>https://lebeart.ch/themen_blog/business-umfeld/</loc>
 	
 		<lastmod>2023-06-24T00:00:00+02:00</lastmod>
 	
@@ -532,7 +562,7 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/beziehung-familie/</loc>
+	<loc>https://lebeart.ch/themen_blog/beziehung-familie/</loc>
 	
 		<lastmod>2023-06-24T00:00:00+02:00</lastmod>
 	
@@ -547,7 +577,7 @@
 
 	
 	<url>
-	<loc>https://lebeart.ch/themen/adhs/</loc>
+	<loc>https://lebeart.ch/themen_blog/adhs/</loc>
 	
 		<lastmod>2023-06-24T00:00:00+02:00</lastmod>
 	

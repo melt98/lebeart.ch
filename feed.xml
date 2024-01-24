@@ -3,29 +3,33 @@
 <?xml-stylesheet type="text/css" href="https://lebeart.ch/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Crameri Coaching</title>
-		<description>Psychosoziale, Systemische Beratung</description>
+		<title>lebeart</title>
+		<description>Kunsttherapie &amp; Systemische Beratung</description>
 		<link>https://lebeart.ch/</link>
 		<atom:link href="https://lebeart.ch/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Mann sein</title>
-				<link>https://lebeart.ch/themen/mann-sein/</link>
+				<link>https://lebeart.ch/themen_blog/mann-sein/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;Halli hallo du lieber Mann. Was kann man denn hier noch sagen.&lt;/p&gt;
+				<description>&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;p&gt;Halli hallo du lieber Mann. Was kann man denn hier noch sagen.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;Mehr wäre hier noch zu sagen.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://lebeart.ch/themen/mann-sein/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen_blog/mann-sein/</guid>
 			</item>
 		
 			<item>
 				<title>Leistung &amp; Mentales</title>
-				<link>https://lebeart.ch/themen/leistung-mentales/</link>
+				<link>https://lebeart.ch/themen_blog/leistung-mentales/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
-				<description>&lt;ul&gt;
+				<description>&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -67,14 +71,16 @@
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">https://lebeart.ch/themen/leistung-mentales/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen_blog/leistung-mentales/</guid>
 			</item>
 		
 			<item>
 				<title>Business-Umfeld</title>
-				<link>https://lebeart.ch/themen/business-umfeld/</link>
+				<link>https://lebeart.ch/themen_blog/business-umfeld/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
-				<description>&lt;ul&gt;
+				<description>&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -116,14 +122,16 @@
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">https://lebeart.ch/themen/business-umfeld/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen_blog/business-umfeld/</guid>
 			</item>
 		
 			<item>
 				<title>Beziehung &amp; Familie</title>
-				<link>https://lebeart.ch/themen/beziehung-familie/</link>
+				<link>https://lebeart.ch/themen_blog/beziehung-familie/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
-				<description>&lt;ul&gt;
+				<description>&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -165,14 +173,16 @@
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">https://lebeart.ch/themen/beziehung-familie/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen_blog/beziehung-familie/</guid>
 			</item>
 		
 			<item>
 				<title>ADHS</title>
-				<link>https://lebeart.ch/themen/adhs/</link>
+				<link>https://lebeart.ch/themen_blog/adhs/</link>
 				<pubDate>Sat, 24 Jun 2023 00:00:00 +0200</pubDate>
-				<description>&lt;ul&gt;
+				<description>&lt;h1 id=&quot;blog&quot;&gt;Blog&lt;/h1&gt;
+
+&lt;ul&gt;
     
     &lt;li&gt;&lt;a href=&quot;https://lebeart.ch/design/mediaelement_js/&quot;&gt;NNNN Play Audio &amp;amp; Video with media&amp;shy;element.js&lt;/a&gt;&lt;/li&gt;
     
@@ -214,7 +224,7 @@
     
 &lt;/ul&gt;
 </description>
-				<guid isPermaLink="true">https://lebeart.ch/themen/adhs/</guid>
+				<guid isPermaLink="true">https://lebeart.ch/themen_blog/adhs/</guid>
 			</item>
 		
 			<item>
