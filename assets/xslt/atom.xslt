@@ -180,6 +180,11 @@
 
                       
 
+                      <li><a  href="https://lebeart.ch/themen/stress/">Stress</a></li>
+                    
+
+                      
+
                       <li><a  href="https://lebeart.ch/themen/Mann-sein/">Mann sein</a></li>
                     
 
@@ -352,7 +357,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Services</h5>
+                <h5 class="shadow-black">Service</h5>
               
             
               
