@@ -116,7 +116,13 @@
 
             
             
-              <li><a  href="https://lebeart.ch/">Start</a></li>
+            
+              <li>
+                <a  href="https://lebeart.ch/">
+                    Start
+                </a>
+              </li>
+            
               <li class="divider"></li>
 
             
@@ -131,22 +137,13 @@
 
             
             
-              <li><a  href="https://lebeart.ch/ueber-mich/">Über mich</a></li>
-              <li class="divider"></li>
-
             
+              <li>
+                <a  href="https://lebeart.ch/ueber-mich/">
+                    Über mich
+                </a>
+              </li>
             
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="https://lebeart.ch/angebot/">Angebot</a></li>
               <li class="divider"></li>
 
             
@@ -163,7 +160,42 @@
             
 
               <li class="has-dropdown">
+              
+                <a>Angebot</a>
+              
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="https://lebeart.ch/angebot/therapie/">Kunsttherapie</a></li>
+                    
+
+                      
+
+                      <li><a  href="https://lebeart.ch/angebot/coaching/">Coaching | Beratung</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+              
                 <a  href="https://lebeart.ch/themen/">Themen</a>
+              
 
                   <ul class="dropdown">
                     
@@ -396,7 +428,11 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Sieh mal hier</h5>
+                <h5 class="shadow-black">Im Netzwerk</h5>
+              
+            
+              
+            
               
             
               
@@ -419,6 +455,16 @@
               
                 <li class="network-entypo" >
                   <a href="https://www.lmzh.ch" target="_blank"  title="Living Museum - Zürich">Living Museum - Zürich</a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="https://www.gpk.ch" target="_blank"  title="gpk - Fachverband für Kunsttherapie">gpk Fachverband</a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="https://www.mitkunst.ch" target="_blank"  title="MITKUNST - Berufsverband für Kunsttherapie">MITKUNST Berufsverband</a>
                 </li>
             
             </ul>
